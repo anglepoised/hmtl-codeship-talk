@@ -1,4 +1,4 @@
-# Codeship
+# Using Codeship for Continuous Integration and Deployment
 
 A quick presentation on continuous integration and continuous deployment with [Codeship](codeship.io/), (not) presented at HMTL in July 2013.
 
